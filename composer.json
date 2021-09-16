@@ -1,26 +1,18 @@
 {
   "name": "pollen-solutions/wp-framework",
   "description": "Pollen Wordpress Framework Component.",
-  "homepage": "https://www.presstify.com/pollen-solutions/wp-framework/",
+  "homepage": "https://github.com/milkcreation/pollen-wp-framework.git",
   "keywords": [
     "presstify",
     "plugins",
     "wordpress",
     "framework"
   ],
-  "time": "2021-06-15",
-  "license": "MIT",
+  "time": "2021-09-16",
   "authors": [
     {
       "name": "Jordy Manner",
-      "email": "jordy@presstify.com",
-      "role": "Developper"
-    }
-  ],
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.presstify.com/pollen-solutions/"
+      "email": "jordy@presstify.com"
     }
   ],
   "require": {
